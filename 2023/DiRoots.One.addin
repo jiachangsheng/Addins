@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DiRoots.One</Name>
+    <Assembly>DiRoots.One1.4.0.0\DiRoots.One.dll</Assembly>
+    <FullClassName>DiRoots.One.Main</FullClassName>
+    <ClientId>B4AD7489-2899-46B3-ACA6-C0DEF7135528</ClientId>
+    <VendorId>www.diroots.com</VendorId>
+    <VendorDescription>DiRoots, http://www.diroots.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
